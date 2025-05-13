@@ -1,7 +1,6 @@
 <html>
-
-  <script async src="scripts/main.js"></script>
   <body>
     <p id="idtest">thisisatest</p>
   </body>
+  <script async src="scripts/main.js"></script>
 </html>
