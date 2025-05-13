@@ -1,1 +1,6 @@
-<script async src="scripts/main.js"></script>
+<html>
+
+  <script async src="scripts/main.js"></script>
+
+  <div id="idtest"></div>
+</html>
