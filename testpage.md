@@ -1,1 +1,1 @@
-This is a new page
+<script async src="scripts/main.js"></script>
